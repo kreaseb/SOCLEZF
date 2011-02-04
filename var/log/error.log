@@ -1,0 +1,56 @@
+2011-01-03T11:23:54+01:00 ALERT (1): Invalid controller specified (indexxcvbc)
+2011-01-03T11:37:25+01:00 ALERT (1): Invalid controller specified (gkhgk)
+2011-01-03T12:32:39+01:00 ALERT (1): Session must be started before any output has been sent to the browser; output started in /var/www/front/library/Zend/Application.php/91
+2011-01-03T14:49:35+01:00 ALERT (1): Session must be started before any output has been sent to the browser; output started in /var/www/front/library/Zend/Application.php/91
+2011-01-03T14:49:48+01:00 ALERT (1): Session must be started before any output has been sent to the browser; output started in /var/www/front/library/Zend/Application.php/91
+2011-01-04T10:03:20+01:00 ALERT (1): Route home is not defined
+2011-01-04T10:22:07+01:00 ALERT (1): L'action "viewAction" n'est pas implémentée.
+2011-01-04T10:23:44+01:00 ALERT (1): Invalid controller specified (view)
+2011-01-04T10:23:55+01:00 ALERT (1): Invalid controller specified (view)
+2011-01-04T10:30:30+01:00 ALERT (1): Invalid controller specified (view)
+2011-01-04T10:34:10+01:00 ALERT (1): Invalid controller specified (view)
+2011-01-04T10:34:14+01:00 ALERT (1): Invalid controller specified (ghdfg)
+2011-01-04T10:34:18+01:00 ALERT (1): Invalid controller specified (users)
+2011-01-04T10:34:43+01:00 ALERT (1): Invalid controller specified (users)
+2011-01-04T10:53:02+01:00 ALERT (1): Invalid controller specified (users)
+2011-01-04T11:38:36+01:00 ALERT (1): No entry is registered for key 'id'
+2011-01-04T12:02:56+01:00 ALERT (1): L'action "getCacheAction" n'est pas implémentée.
+2011-01-04T12:03:53+01:00 ALERT (1): L'action "getCacheAction" n'est pas implémentée.
+2011-01-05T10:37:27+01:00 ALERT (1): cache_dir must be a directory
+2011-01-05T15:17:08+01:00 ALERT (1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sdfgsfdg' for key 2
+2011-01-05T15:17:11+01:00 ALERT (1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sdfgsfdg' for key 2
+2011-01-05T15:17:18+01:00 ALERT (1): Method setValue does not exist
+2011-01-05T15:17:59+01:00 ALERT (1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sdqfqsgdqdhd' for key 2
+2011-01-05T16:37:21+01:00 ALERT (1): Invalid controller specified (indedx)
+2011-01-05T16:37:25+01:00 ALERT (1): L'action "useraddAction" n'est pas implémentée.
+2011-01-05T16:37:32+01:00 ALERT (1): Invalid validator provided to addValidator; must be string or Zend_Validate_Interface
+2011-01-05T16:38:10+01:00 ALERT (1): Invalid validator provided to addValidator; must be string or Zend_Validate_Interface
+2011-01-05T16:38:11+01:00 ALERT (1): Invalid validator provided to addValidator; must be string or Zend_Validate_Interface
+2011-01-05T16:38:11+01:00 ALERT (1): Invalid validator provided to addValidator; must be string or Zend_Validate_Interface
+2011-01-06T09:48:48+01:00 ALERT (1): script 'index/add-user.phtml' not found in path (/var/www/front/application/User/views/scripts/)
+2011-01-06T10:01:49+01:00 ALERT (1): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'login' cannot be null
+2011-01-06T10:13:47+01:00 ALERT (1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fdsg' for key 2
+2011-01-06T10:13:51+01:00 ALERT (1): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fdsg' for key 2
+2011-01-06T10:14:05+01:00 ALERT (1): Action Helper by name Redirect not found
+2011-01-06T10:47:24+01:00 ALERT (1): Method "appendStyleSheet" does not exist
+2011-01-06T10:47:34+01:00 ALERT (1): Invalid controller specified (css)
+2011-01-07T15:52:27+01:00 ALERT (1): script 'logedin.phtml' not found in path (/var/www/front/layouts/:/var/www/front/application/User/views/scripts/)
+2011-01-07T16:08:20+01:00 ALERT (1): Invalid controller specified (vfsdfvgxcd)
+2011-01-31T17:25:50+01:00 ALERT (1): parse_ini_file(/var/www/front/etc/routes.ini): failed to open stream: No such file or directory
+2011-02-01T11:28:59+01:00 ALERT (1): Invalid controller specified (dummy.php)
+2011-02-01T11:29:11+01:00 ALERT (1): Invalid controller specified (dummy.php)
+2011-02-01T11:29:14+01:00 ALERT (1): Invalid controller specified (dummy.php)
+2011-02-01T15:17:03+01:00 ALERT (1): Method setDecorator does not exist
+2011-02-01T15:33:34+01:00 ALERT (1): Plugin by name 'SetDecorators' was not found in the registry; used paths:
+User_View_Helper_: C:/Program Files/Zend/Apache2/htdocs/front/application/modules/User/views\helpers/
+Cleo_View_Helper_: C:\Program Files\Zend\Apache2\htdocs\front/library/Cleo/View/Helper/
+Zend_View_Helper_: Zend/View/Helper/
+2011-02-02T16:31:43+01:00 ALERT (1): Action "index" does not exist and was not trapped in __call()
+2011-02-04T10:27:54+01:00 ALERT (1): Action "json" does not exist and was not trapped in __call()
+2011-02-04T11:03:08+01:00 ALERT (1): Action "json" does not exist and was not trapped in __call()
+2011-02-04T11:03:16+01:00 ALERT (1): Action "json" does not exist and was not trapped in __call()
+2011-02-04T11:03:21+01:00 ALERT (1): Action "index" does not exist and was not trapped in __call()
+2011-02-04T11:03:24+01:00 ALERT (1): Action "index" does not exist and was not trapped in __call()
+2011-02-04T11:03:29+01:00 ALERT (1): Action "index" does not exist and was not trapped in __call()
+2011-02-04T11:03:44+01:00 ALERT (1): Invalid controller specified (Wsservice)
+2011-02-04T11:04:02+01:00 ALERT (1): Invalid controller specified (Wsservice)
